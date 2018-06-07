@@ -1,0 +1,7 @@
+D:\Automated testing\My mentoring\Colections\HT_Collections_program\HT_Collections_program\bin\Debug\HT_Collections_program.exe.config
+D:\Automated testing\My mentoring\Colections\HT_Collections_program\HT_Collections_program\bin\Debug\HT_Collections_program.exe
+D:\Automated testing\My mentoring\Colections\HT_Collections_program\HT_Collections_program\bin\Debug\HT_Collections_program.pdb
+D:\Automated testing\My mentoring\Colections\HT_Collections_program\HT_Collections_program\obj\Debug\HT_Collections_program.csprojResolveAssemblyReference.cache
+D:\Automated testing\My mentoring\Colections\HT_Collections_program\HT_Collections_program\obj\Debug\HT_Collections_program.csproj.CoreCompileInputs.cache
+D:\Automated testing\My mentoring\Colections\HT_Collections_program\HT_Collections_program\obj\Debug\HT_Collections_program.exe
+D:\Automated testing\My mentoring\Colections\HT_Collections_program\HT_Collections_program\obj\Debug\HT_Collections_program.pdb
