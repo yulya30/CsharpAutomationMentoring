@@ -2,5 +2,7 @@
 {
     class HelperClass
     {
+        public void GetHelp()
+        { }
     }
 }
